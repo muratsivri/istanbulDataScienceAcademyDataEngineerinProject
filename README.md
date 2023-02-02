@@ -7,9 +7,9 @@ Adım 2: EtherScan API'dan veri çekme
 Adım 3: Çekilen veriyi Nifi'de işleme
 Adım 4: Nifi'de işlenip hazırlanan veriyi Kafka'ya yazma. (Kafka kurulmadan önce hazırlık)
 Adım 5: Google Cloud üzerinde sanal makine ile Kafka kurulumu
-- Kafka Broker
-- Kafka Topic
-- Kafka Consumer
+ Kafka Broker
+ Kafka Topic
+ Kafka Consumer
 Adım 6: Nifi ile Kafka'yı birbirine bağlama
 Adım 7: DataProc clusterı ayağa kaldırma
 - Scala kurulumu
